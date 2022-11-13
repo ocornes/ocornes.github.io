@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>.
+#subtitle: <a href='#'>Affiliations</a>.
 
 profile:
   align: right
@@ -24,6 +24,8 @@ I joined [Aurora Flight Science's](https://www.aurora.aero/) as a conceptual air
 Since then, my interest has focused on researching computational design methods for safety-critical systems.
 Currently, I am a combat aircraft systems engineer at the [Swiss Airforce's industrial arm](https://www.ruag.ch/en/our-competencies/life-cycle-management/air-systems/professional-life-cycle-management-fighter-jets-and-guided-missiles),
 working on projects related to safety-critical avionics and military aircraft certification.
+<br/>
+**Note:** This research is not linked to my employer.
 <br/>
 <br/>
 Recently, my research has been focused on applying Natural Language Processing to computational design of safety-critical systems.
